@@ -1,0 +1,76 @@
+/**
+ * Common style variables for uni-app
+ *
+ * Many third-party plugins on the uni-app plugin market (https://ext.dcloud.net.cn) use these style variables.
+ * If you are a plugin developer, it is recommended to use scss pre-processing and use these variables directly in your plugin code (no need to import this file), to facilitate users in developing apps with a consistent style.
+ *
+ */
+
+/**
+ * If you are an App developer (plugin user), you can customize your plugin theme by modifying these variables to implement custom theme functions.
+ *
+ * If your project also uses scss pre-processing, you can also use the following variables directly in your scss code without importing this file.
+ */
+
+/* Color Variables */
+
+/* Behavior related colors */
+$uni-color-primary: #007aff;
+$uni-color-success: #4cd964;
+$uni-color-warning: #f0ad4e;
+$uni-color-error: #dd524d;
+
+/* Text Base Colors */
+$uni-text-color: #333; // Base Color
+$uni-text-color-inverse: #fff; // Inverse Color
+$uni-text-color-grey: #999; // Auxiliary Grey, e.g., load more hint
+$uni-text-color-placeholder: #808080;
+$uni-text-color-disable: #c0c0c0;
+
+/* Background Colors */
+$uni-bg-color: #fff;
+$uni-bg-color-grey: #f8f8f8;
+$uni-bg-color-hover: #f1f1f1; // Click State Color
+$uni-bg-color-mask: rgba(0, 0, 0, 0.4); // Mask Color
+
+/* Border Colors */
+$uni-border-color: #c8c7cc;
+
+/* Size Variables */
+
+/* Font Sizes */
+$uni-font-size-sm: 12px;
+$uni-font-size-base: 14px;
+$uni-font-size-lg: 16;
+
+/* Image Sizes */
+$uni-img-size-sm: 20px;
+$uni-img-size-base: 26px;
+$uni-img-size-lg: 40px;
+
+/* Border Radius */
+$uni-border-radius-sm: 2px;
+$uni-border-radius-base: 3px;
+$uni-border-radius-lg: 6px;
+$uni-border-radius-circle: 50%;
+
+/* Horizontal Spacing */
+$uni-spacing-row-sm: 5px;
+$uni-spacing-row-base: 10px;
+$uni-spacing-row-lg: 15px;
+
+/* Vertical Spacing */
+$uni-spacing-col-sm: 4px;
+$uni-spacing-col-base: 8px;
+$uni-spacing-col-lg: 12px;
+
+/* Transparency */
+$uni-opacity-disabled: 0.3; // Component Disabled State Opacity
+
+/* Article Scene Related */
+$uni-color-title: #2c405a; // Article Title Color
+$uni-font-size-title: 20px;
+$uni-color-subtitle: #555; // Subtitle Color
+$uni-font-size-subtitle: 18px;
+$uni-color-paragraph: #3f536e; // Paragraph Color
+$uni-font-size-paragraph: 15px;
