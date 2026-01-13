@@ -8,7 +8,9 @@ To help home brewers achieve professional-grade consistency and repeatability wi
 
 
 ## Demo
-<video src="src/static/demo.mp4" controls width="68%"></video>
+
+https://github.com/user-attachments/assets/d1990122-2dea-4fd7-b5b5-8b1560743260
+
 
 *Demo: BrewWise in action*
 
