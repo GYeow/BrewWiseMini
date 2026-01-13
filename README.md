@@ -7,9 +7,15 @@ BrewWise is a **Digital Barista Consultant** designed to take the guesswork out 
 To help home brewers achieve professional-grade consistency and repeatability without wasting half a bag of expensive beans just to find the "sweet spot."
 
 
-![BrewWise Workflow](src/static/workflow.png)
-*Figure 1: The BrewWise Workflow*
+## Demo
+<video src="src/static/demo.mp4" controls width="68%"></video>
 
+*Demo: BrewWise in action*
+
+
+<img src="src/static/workflow.png" alt="BrewWise Workflow" width="68%" />
+
+*Figure 1: The BrewWise Workflow*
 
 ## Key Features
 
@@ -43,7 +49,7 @@ To help home brewers achieve professional-grade consistency and repeatability wi
 - [Qwen](https://github.com/QwenLM/Qwen) - LLM and VLM by Alibaba Cloud
 
 ---
-*Brew Smarter.*
+*Brew smarter, not harder.*
 
 > **Disclaimer**: Please note that this project is under active development; contributions, issues, and feedback are greatly appreciated.
 
