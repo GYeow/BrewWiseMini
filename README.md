@@ -1,18 +1,19 @@
 # BrewWise ☕️
 **A systematic, feedback-driven assistant for perfecting pour-over coffee.**
 
-BrewWise is a **Digital Barista Consultant** designed to take the guesswork out of "dialing in" your coffee. Unlike static recipe apps, BrewWise treats coffee brewing as an iterative optimization problem. It generates tailored starting points and refines them based on your equipments, bean characteristics, and sensory feedback.
+BrewWise is a **Digital Barista Consultant** designed to take the guesswork out of "dialing in" your coffee. Unlike static recipe apps, BrewWise treats coffee brewing as an iterative optimization problem. It generates tailored starting points and refines them based on your equipment, bean characteristics, and sensory feedback.
 
 ### Goal
 To help home brewers achieve professional-grade consistency and repeatability without wasting half a bag of expensive beans just to find the "sweet spot."
 
+## Showcase
+### Intro
+https://github.com/user-attachments/assets/9d707a0b-9c71-403e-b06c-8ffd8cc4737d
 
-## Demo
 
+
+### Quick Demo
 https://github.com/user-attachments/assets/d1990122-2dea-4fd7-b5b5-8b1560743260
-
-
-*Demo: BrewWise in action*
 
 
 <img src="src/static/workflow.png" alt="BrewWise Workflow" width="68%" />
